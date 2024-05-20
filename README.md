@@ -21,4 +21,6 @@
     <img align="" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
     <img align="" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-</div>
+</div><br/>
+Apaixonado por tecnologia, e a mudança que traz a vida das pessoas.
+
