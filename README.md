@@ -22,5 +22,5 @@
     <img align="" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 </div><br/>
-Apaixonado por tecnologia, e a mudança que traz a vida das pessoas.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
 
