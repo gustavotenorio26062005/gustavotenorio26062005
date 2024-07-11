@@ -9,6 +9,7 @@
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavotenorio26062005&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que já utilizei
 
 <div style="display: inline_block"><br/>
